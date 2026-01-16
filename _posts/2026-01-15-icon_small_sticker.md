@@ -5,7 +5,7 @@ id: "icon-small-sticker"
 tags: 
   - "icon"
   - "sticker"
-cover-image: "/bugmuthurs_repository/assets/shop/cover_image.jpg"
+cover-image: "/bugmuthurs_repository/assets/shop/icon_small_sticker/cover_image.jpg"
 type: sticker
 uri: "shop/icon_small_sticker.html"
 description:  A small sticker of Bugmuthur's icon. Printed on matte sticker paper.
