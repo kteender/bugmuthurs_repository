@@ -5,7 +5,7 @@ id: "cupid-sticker"
 tags: 
   - "cupid"
   - "sticker"
-cover-image: "img/shop/cupid_sticker/cover_image.jpg"
+cover-image: "/bugmuthurs_repository/icons/icon.png"
 type: sticker
 uri: "shop/cupid_sticker.html"
 description:  A sticker of the cupid drainbaby from SEWER ISSUE. Printed on holographic sticker paper.
