@@ -5,7 +5,7 @@ id: "bugmuthur-face-sticker"
 tags: 
   - "face"
   - "sticker"
-cover-image: "/img/shop/face_sticker/cover_image.jpg"
+cover-image: "/bugmuthurs_repository/assets/shop/cover_image.jpg"
 type: sticker
 uri: "shop/face_sticker.html"
 description:  A sticker of Bugmuthur's face. Printed on matte sticker paper.

@@ -5,7 +5,7 @@ id: "icon-large-sticker"
 tags: 
   - "icon"
   - "sticker"
-cover-image: "/img/shop/icon_large_sticker/cover_image.jpg"
+cover-image: "/bugmuthurs_repository/assets/shop/cover_image.jpg"
 type: sticker
 uri: "shop/icon_large_sticker.html"
 description:  A large sticker of Bugmuthur's icon. Printed on transparent sticker paper.
