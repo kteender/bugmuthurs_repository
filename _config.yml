@@ -19,7 +19,7 @@ defaults:
     values:
       layout: "default"
 
-baseurl: "/base_url
+baseurl: "/base_url"
       
 plugins:
   - jekyll-feed
