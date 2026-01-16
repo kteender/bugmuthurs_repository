@@ -19,7 +19,7 @@ defaults:
     values:
       layout: "default"
 
-baseurl: "/bugmuthurs_repository"
+baseurl: "/base_url
       
 plugins:
   - jekyll-feed
