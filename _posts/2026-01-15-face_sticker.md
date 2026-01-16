@@ -7,8 +7,9 @@ tags:
   - "sticker"
 cover-image: "/bugmuthurs_repository/assets/shop/face_sticker/cover_image.jpg"
 type: sticker
-uri: "/bugmuthurs_repository/shop/face_sticker.html"
+uri: "shop/face_sticker.html"
 description:  A sticker of Bugmuthur's face. Printed on matte sticker paper.
-permalink: /bugmuthurs_repository/shop/face_sticker/
+permalink: shop/face_sticker/
+shoplink : /bugmuthurs_repository/shop/face_sticker
 ---
 A sticker of bugmuthur's face

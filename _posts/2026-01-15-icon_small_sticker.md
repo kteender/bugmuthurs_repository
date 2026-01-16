@@ -7,8 +7,9 @@ tags:
   - "sticker"
 cover-image: "/bugmuthurs_repository/assets/shop/icon_small_sticker/cover_image.jpg"
 type: sticker
-uri: "/bugmuthurs_repository/shop/icon_small_sticker.html"
+uri: "shop/icon_small_sticker.html"
 description:  A small sticker of Bugmuthur's icon. Printed on matte sticker paper.
-permalink: /bugmuthurs_repository/shop/icon_small_sticker/
+permalink: shop/icon_small_sticker/
+shoplink : /bugmuthurs_repository/shop/icon_small_sticker
 ---
 A small sticker of Bugmuthur's icon. Stay fused!
