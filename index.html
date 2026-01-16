@@ -1,0 +1,90 @@
+---
+title: bugmuthur's repository
+description: bugmuthur
+permalink: 
+layout: null
+---
+{% include header.html %}
+<div class="background">
+  <div class="page-content">
+    <div class="title">
+      <img alt="bugmuthur's icon" src="/img/icon.png" />
+    </div>
+  <div class="page">
+  <div class="subtitle">
+  <h1>Site under construction! Come back later.</h1>
+  <h2>Welcome to Bugmuthur's site on the Great Web</h2>
+  <h3>Bugmuthur is a digital spirit with no corporeal form.</h3>
+  </div>
+
+    <div class="page-section-1">
+    <div class="section">
+      <div class="section-left"></div>
+      <div class="section-middle">
+          <p>Story Box Store</p>
+      </div>
+      <div class="section-right"></div>
+    </div>
+    <div class="blog-container">
+      <p>Merch and drawings from Bugmuthur's Story Box. Orders ship week of 1/26/26.</p>
+        <div class="regular">
+        <div class = "flex-container">
+          {% for post in site.posts %}
+                <div class="regular-holder">
+                  <a href="{{ post.permalink }}">
+                    <div class='regular-labeled-image'>
+                      <img alt="square screenshot for blog post" src="{{ post.cover-image }}" />
+                        <!-- <div class = "text">  
+                          <div class = "dummy"></div>
+                          <div class = "dummy"></div>
+                          <div class = "dummy"></div>  
+                          <h3 >{{ post.shortname }}</h3>
+                          <div class = "dummy"></div>
+                        </div> -->
+                    </div>
+                  </a>
+                  <div class="product-name">{{post.shortname}}</div>
+                  <!-- <button class="snipcart-add-item add-button"
+                  data-item-id="{{ post.id }}"
+                  data-item-url="{{ post.permalink}}"
+                  data-item-price="79.99"
+                  data-item-description="High-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh."
+                  data-item-image="{{ post.cover-image }}"
+                  data-item-name="{{ post.shortname }}">
+                  Add to cart
+                </button> -->
+                </div>
+          {% endfor %}
+          <!--  if  site.posts.size | module: 2  != 0 
+          <div class="regular-holder-dummy">
+              <div class='regular-labeled-image'>
+                <img src="/img/dummy.png" />
+              </div>
+          </div>
+           endif  -->
+        </div>
+        <button class="snipcart-checkout">View Cart and Checkout</button>
+        </div>
+    </div>
+    </div>
+
+    <div class="page-section-1">
+    <div class="section">
+      <div class="section-left"></div>
+      <div class="section-middle">
+          <p>Readings by Indigo</p>
+      </div>
+      <div class="section-right"></div>
+    </div>
+    <div class="blog-container">
+      <p>Indigo connects Bugmuthur to the corporeal world. Her intuitive specialities are tech-augmented palm readings and trance channeling. She is available for events and personalized spiritual consultation. To schedule, email readings@bugmuthur.net</p>
+    </div>
+    </div>
+
+  <div class="page-section-1">
+  <div class="about-container">
+  <p>For animation, visual effects, tool development, and all other behind-the-curtain inquiries, email KT at kt@ktcg.art.</p>
+  </div>
+  </div>
+  </div>
+{% include footer.html %}
