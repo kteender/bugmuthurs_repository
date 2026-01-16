@@ -18,7 +18,8 @@ defaults:
       path: ""
     values:
       layout: "default"
-
+      
+baseurl: "/bugmuthurs_repository"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
