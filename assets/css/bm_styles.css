@@ -86,7 +86,9 @@
 .subtitle h3 {
   text-align: center;
   color: black;
-  font-size: 1em;
+  font-size: 1.5em;
+  text-decoration: underline;
+  text-decoration-style: double;
 }
 
 .top-bar {
@@ -218,6 +220,35 @@
   text-align: center;
 }
 
+.readings-container  {
+  box-sizing: border-box;
+  border-style: solid;
+  border-color: black;
+  border-style: double;
+  background-color: white;
+  border-width: 0px 5px 5px 5px;
+
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.readings-item{
+  max-width: 33%;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: 15em;
+}
+
+.readings-item img {
+  max-width: 15em;
+}
+
+.readings-item p {
+  padding: 1%;
+  color: black; 
+  background-color: white; 
+}
+
 .about-container  {
   box-sizing: border-box;
   border-style: solid;
@@ -263,6 +294,41 @@
   padding: 10px;
 }
 
+.readings-flex-container {
+  display: flex;
+  width: 100%;
+  height: 370px;
+  justify-content: space-evenly;
+  flex-flow: row wrap;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  overflow-y:scroll;
+  box-sizing: border-box;
+  padding: 10px;
+  text-align: center;
+}
+
+.readings-holder{
+  flex-basis: 16em;
+  position: relative;
+  box-sizing: border-box;
+  flex-grow: 0;
+  margin: 0.9375em;
+  overflow: hidden;
+  text-decoration: none !important;
+  text-align: center;
+}
+
+.regular-text-holder{
+  flex-basis: 16em;
+  position: relative;
+  box-sizing: border-box;
+  margin: 0.9375em;
+  margin-top: 0px;
+  overflow: hidden;
+  text-decoration: none !important;
+}
+
 /* touchscreen stuff */
 @media (pointer:coarse), screen and (max-width: 642) {
     .flex-container{
@@ -271,6 +337,15 @@
       flex-flow: column;
       flex-wrap: wrap;
       height: 320px;
+      margin-right: 5%;
+    }
+
+    .readings-flex-container {
+      overflow-x: scroll;
+      overflow-y: hidden;
+      flex-flow: column;
+      flex-wrap: wrap;
+      height: 280px;
       margin-right: 5%;
     }
 }
@@ -360,10 +435,53 @@
 }
 
 .add-button {
-  background-color: lightgrey;
+  background-color: white;
   font-family: 'Share Tech Mono', Helvetica, monospace;
-  border-radius: 10%;
   width: 50%;
   font-size: 0.8em;
   padding: 5%;
+  color: black;
+}
+
+.view-cart-button {
+  background-color: white;
+  font-family: 'Share Tech Mono', Helvetica, monospace;
+  text-align: center;
+  color:black;
+  font-size: 1em;
+  margin: 1%;
+  padding: 1%;
+}
+
+.services-box {
+  background-color: white;
+  width: 100%;
+  display: block;
+  color: black;
+  text-align: center;
+  font-size: 1em;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 1%;
+  border-width: 2px 2px 2px 2px;
+  border-style: double;
+}
+
+.socials-container {
+  padding-top: 2%;
+  display: flex;
+  width: 50%;
+  flex-flow: row;
+  justify-content: space-around;
+  margin: auto;
+}
+
+.socials-container img{
+  max-width: 2em;
+  opacity: 0.7;
+}
+
+.socials-container p {
+  text-align: center;
+  color: #ccffcc; 
 }
