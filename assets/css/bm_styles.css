@@ -443,6 +443,10 @@
   color: black;
 }
 
+.add-button:hover, .view-cart-button:hover {
+  background-color: #99cc99; ; /* Color when hovered over */
+}
+
 .view-cart-button {
   background-color: white;
   font-family: 'Share Tech Mono', Helvetica, monospace;

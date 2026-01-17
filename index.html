@@ -45,10 +45,11 @@ layout: null
                     </div>
                   </a>
                   <div class="product-name">{{post.shortname}}</div>
+                  <div class="product-name">${{post.price}}</div>
                   <button class="snipcart-add-item add-button"
                   data-item-id="{{ post.id }}"
                   data-item-url="{{ post.shoplink}}"
-                  data-item-price="79.99"
+                  data-item-price="{{ post.price }}"
                   data-item-description="High-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh."
                   data-item-image="{{ post.cover-image }}"
                   data-item-name="{{ post.shortname }}">
