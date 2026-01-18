@@ -572,3 +572,20 @@
   text-align: center;
   color: #ccffcc; 
 }
+
+.listing-image-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  overflow-x: scroll;
+}
+
+.listing-image-holder {
+  flex-basis: 300px;
+  padding: 2%;
+}
+
+.listing-image-holder img {
+  object-fit: contain;
+  height: 400px;
+}
