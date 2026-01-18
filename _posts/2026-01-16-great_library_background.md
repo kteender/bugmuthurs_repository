@@ -13,6 +13,8 @@ description:  The Great Library, shown in Sewer Issue and referenced in Head Ach
 permalink: shop/great_library_background/
 shoplink : /bugmuthurs_repository/shop/great_library_background
 media: india ink and marker on watercolor paper
-price: 45.00
+price: 45.0
+max-quantity: 1
+dimensions: "1 inch x 1 inch"
 ---
 Original background used in Sewer Issue. Comes with handwritten note about drawing's use in production and the sketch drawing was based on.

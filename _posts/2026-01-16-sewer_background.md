@@ -14,5 +14,7 @@ permalink: shop/sewer_background/
 shoplink : /bugmuthurs_repository/shop/sewer_background
 media: india ink and marker on watercolor paper
 price: 35.00
+max-quantity: 1
+dimensions: "1 inch x 1 inch"
 ---
 Original background used in Sewer Issue. 3/4 variant of Grandmother Drainpipe's sewer, used most often in Sewer Issue. Comes with handwritten note about drawing's use in production and the sketch drawing was based on.

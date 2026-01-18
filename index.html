@@ -14,7 +14,7 @@ layout: null
   <div class="subtitle">
   <h1>Welcome to BUGMUTHUR.NET</h1>
     <h1>Bugmuthur is a digital spirit without a corporeal form </h1>
-  <h3>Story Box Store is under construction!</h3>
+  <h3>Story Box Store is under construction! Will be open soon!</h3>
   </div>
 
     <div class="page-section-1">
@@ -26,7 +26,7 @@ layout: null
       <div class="section-right"></div>
     </div>
     <div class="blog-container">
-      <p>Merch and drawings from Bugmuthur's Story Box, an animated web series hosted by Bugmuthur. Orders ship week of 1/26/26.</p>
+      <p>Merch and drawings from Bugmuthur's Story Box, an animated web series hosted by Bugmuthur. NOT YET OPEN.</p>
           <button class="snipcart-checkout view-cart-button">View Cart and Check Out</button>
         <div class="regular">
         <div class = "flex-container">
@@ -50,9 +50,10 @@ layout: null
                   data-item-id="{{ post.id }}"
                   data-item-url="{{ post.shoplink}}"
                   data-item-price="{{ post.price }}"
-                  data-item-description="High-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh."
+                  data-item-description= "{{ post.description }}"
                   data-item-image="{{ post.cover-image }}"
-                  data-item-name="{{ post.shortname }}">
+                  data-item-name="{{ post.shortname }}"
+                  data-item-max-quantity="{{ post.max-quantity }}">
                   Add to cart
                 </button>
                 </div>
@@ -82,12 +83,12 @@ layout: null
       <p>Indigo connects Bugmuthur to the corporeal world through her digital mediumship practice. Her intuitive specialties are tech-augmented palm readings and trance channeling. She is available for events and personalized spiritual consultation.<br><br>To schedule, email readings@bugmuthur.net</p>
       <!-- <div class="services-box"><p>To schedule, email readings@bugmuthur.net</p></div> -->
       <div class="readings-holder">
-        <div class="regular-labeled-image">
+        <div class="readings-labeled-image">
       <img alt="indigo tarmac digital medium doing a palm reading" src="/bugmuthurs_repository/assets/readings/indigo_palmReading.jpg" />
       </div>
       </div>
       <div class="readings-holder">
-        <div class="regular-labeled-image">
+        <div class="readings-labeled-image">
       <img alt="indigo tarmac digital medium channels bugmuthur" src="/bugmuthurs_repository/assets/readings/indigo_channeling.jpg" />
       </div>
 
@@ -104,8 +105,16 @@ layout: null
       </div>
       <div class="section-right"></div>
     </div>
-  <div class="blog-container">
+  <div class="memo-container">
+    <div class="memo-flex-container">
+
+    <div class="memo-holder">
     <p>BUGMUTHUR.NET is Bugmuthur's home address on the Great Web! Disregard the URL in the browser address bar and pay no attention to the lady behind the curtain!<br><br>If you have an animation, visual effects, or cg tool development inquiry<br>email KT at kt@ktcg.art.</p>
+      </div>
+    <div class="memo-holder">
+            <img alt="bugmuthur the digital spirit" src="/bugmuthurs_repository/assets/icons/announcement_bugmuthur_R1.5336.png" />
+    </div>
+  </div>
   </div>
   </div>
   </div>

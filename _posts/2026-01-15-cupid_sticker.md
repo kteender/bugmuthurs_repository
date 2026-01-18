@@ -13,5 +13,7 @@ permalink: shop/cupid_sticker/
 shoplink : /bugmuthurs_repository/shop/cupid_sticker
 media: matte sticker of digital image
 price: 5.00
+max-quantity: 9
+dimensions: "1 inch x 1 inch"
 ---
 Printed on holographic sticker paper.

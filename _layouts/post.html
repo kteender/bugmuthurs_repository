@@ -14,17 +14,21 @@ layout: null
                 <h1>{{ page.shortname }}</h1>
                 <h2>${{ page.price }}</h2>
                 <h3>{{ page.media }}</h3>
+                <h3>{{ page.dimensions }}</h3>
                 <p>{{ page.description }}</p>
                 <p>{{ page.content }}</p>
+                <div style="max-width: 50%; margin:auto; display: flex; justify-content: space-around;">
                   <button class="snipcart-add-item add-button"
                   data-item-id="{{ page.id }}"
                   data-item-url="{{ page.shoplink}}"
                   data-item-price="{{ page.price }}"
-                  data-item-description="High-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh."
+                  data-item-description= "{{ page.description }}"
                   data-item-image="{{ page.cover-image }}"
-                  data-item-name="{{ page.shortname }}">
+                  data-item-name="{{ page.shortname }}"
+                  data-item-max-quantity="{{ page.max-quantity }}">
                   Add to cart
                 </button>
+                </div>
                 <p>Stickers and drawings ship via USPS for $7. Next round of shipments goes out week of 1/26/26.</p> 
                 <p>At this time, shipping only available to addresses located within the states and territories of the USA. If you are located outside the USA and would like to place an order, email contact@bugmuthur.net.</p>
                 <div style="max-width: 50%; margin:auto; display: flex; justify-content: space-around;">

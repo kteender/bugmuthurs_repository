@@ -13,5 +13,7 @@ permalink: shop/face_sticker/
 shoplink : /bugmuthurs_repository/shop/face_sticker
 media: matte sticker of digital image
 price: 5.00
+max-quantity: 9
+dimensions: "2 inch x 2 inch"
 ---
 Printed on matte sticker paper. A sticker of bugmuthur's face

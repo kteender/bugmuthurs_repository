@@ -11,6 +11,9 @@ uri: "shop/icon_small_sticker.html"
 description:  A small sticker of Bugmuthur's icon.
 permalink: shop/icon_small_sticker/
 shoplink : /bugmuthurs_repository/shop/icon_small_sticker
+media: matte sticker of digital image
 price: 5.00
+max-quantity: 9
+dimensions: "1 inch x 1 inch"
 ---
 Printed on matte sticker paper. Stay fused!

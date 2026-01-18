@@ -232,6 +232,18 @@
   flex-wrap: wrap;
 }
 
+.memo-container  {
+  box-sizing: border-box;
+  border-style: solid;
+  border-color: black;
+  border-style: double;
+  background-color: white;
+  border-width: 0px 5px 5px 5px;
+  display: inline-block;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
 .readings-item{
   max-width: 33%;
   flex-grow: 0;
@@ -308,6 +320,20 @@
   text-align: center;
 }
 
+.memo-flex-container {
+  display: flex;
+  width: 100%;
+  height: 260px;
+  justify-content: space-around;
+  flex-flow: wrap;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  overflow-y:scroll;
+  box-sizing: border-box;
+  padding: 10px;
+  text-align: center;
+}
+
 .readings-holder{
   flex-basis: 16em;
   position: relative;
@@ -317,6 +343,25 @@
   overflow: hidden;
   text-decoration: none !important;
   text-align: center;
+}
+
+.memo-holder{
+  position: relative;
+  box-sizing: border-box;
+  margin: 0.9375em;
+  overflow: hidden;
+  text-decoration: none !important;
+  max-width: 70%;
+  display: flex;
+  align-items: center;
+}
+
+.memo-holder img{
+  object-fit: contain;
+  margin:auto;
+  text-decoration: none !important;
+  max-height: 200px;
+  flex-shrink: 1;
 }
 
 .regular-text-holder{
@@ -336,7 +381,7 @@
       overflow-y: hidden;
       flex-flow: column;
       flex-wrap: wrap;
-      height: 320px;
+      height: 650px;
       margin-right: 5%;
     }
 
@@ -348,6 +393,30 @@
       height: 280px;
       margin-right: 5%;
     }
+
+    .memo-holder {
+      display: flex;
+      align-items: center;
+    }
+
+      .memo-flex-container {
+      overflow-x: scroll;
+      overflow-y: hidden;
+      flex-flow: column;
+      flex-wrap: wrap;
+      height: 350px;
+      margin-right: 5%;
+    }
+
+    .regular-holder {
+    max-width: 180px;
+  }
+    
+
+    .regular-labeled-image {
+    width: 180;
+  }
+    
 }
 
 .regular-holder, .regular-holder-dummy {
@@ -357,11 +426,25 @@
   flex-grow: 0;
   margin: 0.9375em;
   margin-top: 0px;
-  overflow: hidden;
   text-decoration: none !important;
 }
 
 .regular-labeled-image {
+  display: flex;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  text-decoration: none !important;
+}
+
+.regular-labeled-image img{
+  object-fit: contain;
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+}
+
+.readings-labeled-image {
   display: flex;
   aspect-ratio: 4/3;
   max-width: 100%;
@@ -370,7 +453,7 @@
   text-decoration: none !important;
 }
 
-.regular-labeled-image img{
+.readings-labeled-image img{
   object-fit: contain;
   margin: 0;
   padding: 0;
@@ -435,7 +518,7 @@
 }
 
 .add-button {
-  background-color: white;
+  background-color: rgb(225, 225, 225);
   font-family: 'Share Tech Mono', Helvetica, monospace;
   width: 50%;
   font-size: 0.8em;
@@ -448,7 +531,7 @@
 }
 
 .view-cart-button {
-  background-color: white;
+  background-color: rgb(225, 225, 225);
   font-family: 'Share Tech Mono', Helvetica, monospace;
   text-align: center;
   color:black;
