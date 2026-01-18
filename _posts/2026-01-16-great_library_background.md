@@ -17,4 +17,4 @@ price: 45.0
 max-quantity: 1
 dimensions: "1 inch x 1 inch"
 ---
-Original background used in Sewer Issue. Comes with handwritten note about drawing's use in production and the sketch drawing was based on.
+Original background used in SEWER ISSUE. Comes with handwritten note about drawing's use in production and the sketch drawing was based on.

@@ -13,7 +13,9 @@ permalink: shop/icon_small_sticker/
 shoplink : /bugmuthurs_repository/shop/icon_small_sticker
 media: matte sticker of digital image
 price: 5.00
-max-quantity: 9
+max-quantity: 19
 dimensions: "1 inch x 1 inch"
+listing-dir: "/bugmuthurs_repository/assets/shop/icon_small_sticker/"
+listing-images: "cover_image.jpg"
 ---
-Printed on matte sticker paper. Stay fused!
+Printed on matte sticker paper. Must-have for all buglets.

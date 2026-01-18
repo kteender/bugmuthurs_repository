@@ -16,6 +16,6 @@ price: 5.00
 max-quantity: 9
 dimensions: "2.5 inch x 3 inch"
 listing-dir: "/bugmuthurs_repository/assets/shop/icon_large_sticker/"
-listing-images: "listing01.jpg,listing02.jpg,cover_image.jpg"
+listing-images: "listing01.jpg,listing02.jpg"
 ---
 Printed on transparent sticker paper. Stay fused!
