@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono');
 
+#snipcart {
+  --bgColor-buttonPrimary: hsl(132, 89%, 14%);
+  --bgColor-buttonPrimary-hover:hsl(133, 78%, 27%);
+  --color-buttonSecondary: hsl(0,0%,0%);
+  --bgColor-buttonSecondary: hsla(133, 78%, 84%, 0.584);
+  --bgColor-buttonSecondary-hover: hsl(0, 0%, 75%);
+}
+
 .bm-page-content {
   background-image: url('style_img/desk_bg.jpg');
   background-repeat: repeat;
