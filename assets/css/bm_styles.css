@@ -309,7 +309,7 @@
 .readings-flex-container {
   display: flex;
   width: 100%;
-  height: 370px;
+  height: 420px;
   justify-content: space-evenly;
   flex-flow: row wrap;
   margin-top: 0px;
@@ -390,8 +390,12 @@
       overflow-y: hidden;
       flex-flow: column;
       flex-wrap: wrap;
-      height: 280px;
+      height: 300px;
       margin-right: 5%;
+    }
+    .readings-flex-container p{
+      max-width: 80%;
+      padding-right: 5%;
     }
 
     .memo-holder {
@@ -399,12 +403,12 @@
       align-items: center;
     }
 
-      .memo-flex-container {
+    .memo-flex-container {
       overflow-x: scroll;
       overflow-y: hidden;
       flex-flow: column;
       flex-wrap: wrap;
-      height: 350px;
+      height: 340px;
       margin-right: 5%;
     }
 
@@ -446,9 +450,9 @@
 
 .readings-labeled-image {
   display: flex;
-  aspect-ratio: 4/3;
   max-width: 100%;
-  margin: 0;
+  margin: 5%;
+  margin-top: 0;
   padding: 0;
   text-decoration: none !important;
 }
