@@ -1,7 +1,7 @@
 ---
 title: "BUGMUTHUR | Cupid Holographic Sticker"
 shortname: "Cupid Holographic Sticker"
-id: "cupid-sticker"
+id: "cupid-holo-sticker"
 tags: 
   - "cupid"
   - "sticker"

@@ -1,7 +1,7 @@
 ---
 title: "BUGMUTHUR | Icon Clear Sticker"
 shortname: "Icon Clear Sticker"
-id: "icon-large-sticker"
+id: "icon-clear-sticker"
 tags: 
   - "icon"
   - "sticker"

@@ -1,7 +1,7 @@
 ---
 title: "BUGMUTHUR | Icon Small Sticker"
 shortname: "Icon Small Sticker"
-id: "icon-small-sticker"
+id: "icon-tiny-sticker"
 tags: 
   - "icon"
   - "sticker"
