@@ -5,11 +5,11 @@ id: "desklamp-prop"
 tags: 
   - "drawing"
   - "prop"
-  - "christmas-rose"
+  - "repository"
 cover-image: "/bugmuthurs_repository/assets/shop/desklamp_prop/cover_image.jpg"
 type: prop
 uri: "shop/desklamp_prop.html"
-description:  Any resemblence to other animated desklamps is purely incidental
+description:  Any resemblance to other animated desklamps is purely incidental
 permalink: shop/desklamp_prop/
 shoplink : /bugmuthurs_repository/shop/desklamp_prop
 media: india ink, graphite, and pen on mixed paper

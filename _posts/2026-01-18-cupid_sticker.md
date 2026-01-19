@@ -14,7 +14,7 @@ shoplink : /bugmuthurs_repository/shop/cupid_sticker
 media: holographic sticker of digital image
 price: 6.00
 max-quantity: 9
-dimensions: "1 inch x 1 inch"
+dimensions: "2.5 inch x 3 inch"
 listing-dir: "/bugmuthurs_repository/assets/shop/cupid_sticker/"
 listing-images: "listing01.jpg"
 ---
