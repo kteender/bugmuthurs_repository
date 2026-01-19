@@ -12,7 +12,7 @@ description:  A small sticker of Bugmuthur's icon.
 permalink: shop/icon_small_sticker/
 shoplink : /bugmuthurs_repository/shop/icon_small_sticker
 media: matte sticker of digital image
-price: 5.00
+price: 3.00
 max-quantity: 19
 dimensions: "1 inch x 1 inch"
 listing-dir: "/bugmuthurs_repository/assets/shop/icon_small_sticker/"

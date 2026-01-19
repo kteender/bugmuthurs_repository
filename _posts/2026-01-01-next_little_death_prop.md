@@ -12,8 +12,8 @@ uri: "shop/next_little_death_prop.html"
 description:  "'Yet I stand here and wish for my next little death!'"
 permalink: shop/next_little_death_prop/
 shoplink : /bugmuthurs_repository/shop/next_little_death_prop
-media: india ink and marker on watercolor paper
-price: 10.00
+media: india ink, pen, and marker on watercolor paper
+price: 9.50
 max-quantity: 1
 dimensions: "8 inch x 12 inch"
 listing-dir: "/bugmuthurs_repository/assets/shop/next_little_death_prop/"

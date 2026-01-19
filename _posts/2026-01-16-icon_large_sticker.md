@@ -1,6 +1,6 @@
 ---
-title: "BUGMUTHUR | Icon Large Sticker"
-shortname: "Icon Large Sticker"
+title: "BUGMUTHUR | Icon Clear Sticker"
+shortname: "Icon Clear Sticker"
 id: "icon-large-sticker"
 tags: 
   - "icon"
@@ -8,7 +8,7 @@ tags:
 cover-image: "/bugmuthurs_repository/assets/shop/icon_large_sticker/cover_image.jpg"
 type: sticker
 uri: "shop/icon_large_sticker.html"
-description:  A large sticker of Bugmuthur's icon
+description:  A transparent sticker of Bugmuthur's icon
 permalink: shop/icon_large_sticker/
 shoplink : /bugmuthurs_repository/shop/icon_large_sticker
 media: matte sticker of digital image

@@ -12,7 +12,7 @@ description:  "'So sick of these public works contracts!'"
 permalink: shop/maam_sticker/
 shoplink : /bugmuthurs_repository/shop/maam_sticker
 media: matte sticker of digital image
-price: 5.00
+price: 4.00
 max-quantity: 9
 dimensions: "4 inch x 3.25 inch"
 listing-dir: "/bugmuthurs_repository/assets/shop/maam_sticker/"

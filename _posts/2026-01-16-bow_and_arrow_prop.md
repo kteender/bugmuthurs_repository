@@ -12,8 +12,8 @@ uri: "shop/bow_and_arrow_prop.html"
 description:  Cupid drainbaby's bow and arrow.
 permalink: shop/bow_and_arrow_prop/
 shoplink : /bugmuthurs_repository/shop/bow_and_arrow_prop
-media: india ink and marker on watercolor paper
-price: 20.00
+media: india ink, graphite, and pen on watercolor paper
+price: 22.00
 max-quantity: 1
 dimensions: "9 inch x 12 inch"
 listing-dir: "/bugmuthurs_repository/assets/shop/bow_and_arrow_prop/"

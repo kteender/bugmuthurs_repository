@@ -1,6 +1,6 @@
 ---
-title: "BUGMUTHUR | Cupid Drainbaby Sticker"
-shortname: "Cupid Drainbaby Sticker"
+title: "BUGMUTHUR | Cupid Holographic Sticker"
+shortname: "Cupid Holographic Sticker"
 id: "cupid-sticker"
 tags: 
   - "cupid"
@@ -12,7 +12,7 @@ description: Venus' son!
 permalink: shop/cupid_sticker/
 shoplink : /bugmuthurs_repository/shop/cupid_sticker
 media: holographic sticker of digital image
-price: 5.00
+price: 6.00
 max-quantity: 9
 dimensions: "1 inch x 1 inch"
 listing-dir: "/bugmuthurs_repository/assets/shop/cupid_sticker/"
