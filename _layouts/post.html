@@ -16,6 +16,7 @@ layout: null
                 <h3>{{ page.media }}</h3>
                 <h3>{{ page.dimensions }}</h3>
                 <p>{{ page.description }}</p>
+                <p>On mobile, scroll right for images.</p>
                 <div class="listing-image-container">
                     {% assign images = page.listing-images | split:"," %}
                     {% for member in images %}
