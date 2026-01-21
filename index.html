@@ -14,7 +14,7 @@ layout: null
   <div class="subtitle">
   <h3>Welcome to BUGMUTHUR.NET</h3>
     <h1>Bugmuthur is a digital spirit without a corporeal form </h1>
-  <h3>Story Box Store is under construction! Will be open soon!</h3>
+  <!-- <h3>Story Box Store is under construction! Will be open soon!</h3> -->
   </div>
 
     <div class="page-section-1">
@@ -48,11 +48,11 @@ layout: null
                     </div>
                   </a>
                   <div class="product-name">{{post.shortname}}</div>
-                  <div class="product-name">${{post.price}}</div>
+                  <div class="product-name">${{post.price}}0</div>
                   <button class="snipcart-add-item add-button"
                   data-item-id="{{ post.id }}"
                   data-item-url="{{ post.shoplink}}"
-                  data-item-price="{{ post.price }}"
+                  data-item-price="{{ post.price | money }}"
                   data-item-description= "{{ post.description }}"
                   data-item-image="{{ post.cover-image }}"
                   data-item-name="{{ post.shortname }}"
