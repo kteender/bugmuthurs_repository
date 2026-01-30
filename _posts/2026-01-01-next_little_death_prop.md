@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Next Little Death"
-shortname: "Next Little Death Drawing"
+shortname: "SOLD - Next Little Death Drawing"
 id: "next-little-death-prop"
 tags: 
   - "drawing"

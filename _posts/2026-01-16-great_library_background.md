@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | The Great Library"
-shortname: "The Great Library Background"
+shortname: "SOLD - The Great Library Background"
 id: "great-library-background"
 tags: 
   - "drawing"
