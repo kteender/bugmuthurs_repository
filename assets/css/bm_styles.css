@@ -398,6 +398,10 @@
       margin-right: 5%;
     }
 
+    .readings-container {
+      overflow-x: hidden;
+    }
+
     .readings-flex-container {
       overflow-x: scroll;
       overflow-y: hidden;
