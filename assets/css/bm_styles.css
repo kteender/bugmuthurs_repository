@@ -467,11 +467,11 @@
 
 .readings-labeled-image {
   max-width: 100%;
-  margin: 5%;
+  margin: 1%;
   margin-top: 0;
   padding: 0;
   flex-basis: 12em;
-  flex-grow: 0;
+  flex-grow: 1;
   text-decoration: none !important;
 }
 
