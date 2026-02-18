@@ -20,4 +20,4 @@ dimensions: "8 inch x 12 inch"
 listing-dir: "/bugmuthurs_repository/assets/shop/fountain_background/"
 listing-images: "listing01.jpg,cover_image.jpg,listing02.jpg"
 ---
-Background for the cupid drainbaby and mannekin pis drainbaby. Only one in existence. 
+Background for the cupid drainbaby and puer mingens drainbaby. Only one in existence. 
