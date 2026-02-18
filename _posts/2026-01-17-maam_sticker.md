@@ -7,6 +7,7 @@ tags:
   - "sticker"
 cover-image: "/bugmuthurs_repository/assets/shop/maam_sticker/cover_image.jpg"
 type: sticker
+sold-out: "False"
 uri: "shop/maam_sticker.html"
 description:  "'So sick of these public works contracts!'"
 permalink: shop/maam_sticker/

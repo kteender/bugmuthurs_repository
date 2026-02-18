@@ -56,14 +56,15 @@ layout: null
     </div>
     <div class="blog-container">
       <div  style="padding: 2%; padding-top: 4%;">
-        <p style="  text-decoration: underline;text-decoration-style: double;font-weight: bold;">NOW OPEN</p>
-      <p>Merch and drawings from animated Great Web series <a href="https://youtu.be/q0pBVFMJydw?si=QdUvuYTWmsC9VSnI">Bugmuthur's Story Box</a>.</p>
+        <!-- <p style="  text-decoration: underline;text-decoration-style: double;font-weight: bold;">NOW OPEN</p> -->
+      <p>Original drawings from animated Great Web series <a href="https://youtu.be/q0pBVFMJydw?si=QdUvuYTWmsC9VSnI">Bugmuthur's Story Box</a>.</p>
       <p>If you are interested in purchasing an unlisted background or prop from an animation, email <a href="mailto:contact@bugmuthur.net?subject=Unlisted drawing purchase">contact@bugmuthur.net</a>!</p>
       </div>
           <button class="snipcart-checkout view-cart-button">View Cart and Check Out</button>
         <div class="regular">
         <div class = "flex-container">
           {% for post in site.posts %}
+          {% if post.type != "sticker" and post.sold-out != "True" %}
                 <div class="regular-holder">
                   <a href="{{ post.permalink }}">
                     <div class='regular-labeled-image'>
@@ -90,6 +91,61 @@ layout: null
                   Add to cart
                 </button>
                 </div>
+          {% endif %}
+          {% endfor %}
+          <!--  if  site.posts.size | module: 2  != 0 
+          <div class="regular-holder-dummy">
+              <div class='regular-labeled-image'>
+                <img src="/img/dummy.png" />
+              </div>
+          </div>
+           endif  -->
+        </div>
+        </div>
+    </div>
+    </div>
+
+      <div class="page-section-1">
+    <div class="section">
+      <div class="section-left"></div>
+      <div class="section-middle">
+          <p>Stickers</p>
+      </div>
+      <div class="section-right"></div>
+    </div>
+    <div class="blog-container">
+        <button class="snipcart-checkout view-cart-button">View Cart and Check Out</button>
+        <div class="regular">
+        <div class = "flex-container">
+          {% for post in site.posts %}
+                {% if post.type == "sticker" and post.sold-out != "True" %}
+                <div class="regular-holder">
+                  <a href="{{ post.permalink }}">
+                    <div class='regular-labeled-image'>
+                      <img alt="square screenshot for blog post" src="{{ post.cover-image }}" />
+                        <!-- <div class = "text">  
+                          <div class = "dummy"></div>
+                          <div class = "dummy"></div>
+                          <div class = "dummy"></div>  s
+                          <h3 >{{ post.shortname }}</h3>
+                          <div class = "dummy"></div>
+                        </div> -->
+                    </div>
+                  </a>
+                  <div class="product-name">{{post.shortname}}</div>
+                  <div class="product-name">${{post.price}}0</div>
+                  <button class="snipcart-add-item add-button"
+                  data-item-id="{{ post.id }}"
+                  data-item-url="{{ post.shoplink}}"
+                  data-item-price="{{ post.price | money }}"
+                  data-item-description= "{{ post.description }}"
+                  data-item-image="{{ post.cover-image }}"
+                  data-item-name="{{ post.shortname }}"
+                  data-item-max-quantity="{{ post.max-quantity }}">
+                  Add to cart
+                </button>
+                </div>
+                {% endif %}
           {% endfor %}
           <!--  if  site.posts.size | module: 2  != 0 
           <div class="regular-holder-dummy">

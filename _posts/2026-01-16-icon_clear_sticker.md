@@ -7,6 +7,7 @@ tags:
   - "sticker"
 cover-image: "/bugmuthurs_repository/assets/shop/icon_clear_sticker/cover_image.jpg"
 type: sticker
+sold-out: "False"
 uri: "shop/icon_clear_sticker.html"
 description:  A transparent sticker of Bugmuthur's icon
 permalink: shop/icon_clear_sticker/

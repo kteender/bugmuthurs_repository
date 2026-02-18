@@ -8,6 +8,7 @@ tags:
   - "christmas-rose"
 cover-image: "/bugmuthurs_repository/assets/shop/next_little_death_prop/cover_image.jpg"
 type: prop
+sold-out: "True"
 uri: "shop/next_little_death_prop.html"
 description:  "'Yet I stand here and wish for my next little death!'"
 permalink: shop/next_little_death_prop/

@@ -7,6 +7,7 @@ tags:
   - "sticker"
 cover-image: "/bugmuthurs_repository/assets/shop/cupid_holo_sticker/cover_image.jpg"
 type: sticker
+sold-out: "False"
 uri: "shop/cupid_holo_sticker.html"
 description: Venus' son!
 permalink: shop/cupid_holo_sticker/

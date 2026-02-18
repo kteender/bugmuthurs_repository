@@ -1,0 +1,23 @@
+---
+title: "BUGMUTHUR | Buried Rose Prop"
+shortname: "Buried Rose Drawing"
+id: "buried-rose-prop"
+tags: 
+  - "drawing"
+  - "prop"
+  - "christmas-rose"
+cover-image: "/bugmuthurs_repository/assets/shop/buried_rose_prop/cover_image.jpg"
+type: prop
+sold-out: "False"
+uri: "shop/buried_rose_prop.html"
+description:  "'I am six feet down under a blanket of snow.'"
+permalink: shop/buried_rose_prop/
+shoplink : /bugmuthurs_repository/shop/buried_rose_prop
+media: india ink, pen, and marker on watercolor paper
+price: 9.50
+max-quantity: 1
+dimensions: "9 inch x 12 inch"
+listing-dir: "/bugmuthurs_repository/assets/shop/buried_rose_prop/"
+listing-images: "listing01.jpg,listing02.jpg,listing03.jpg"
+---
+Original prop used in Christmas Rose. Original drawing, only one in existence!

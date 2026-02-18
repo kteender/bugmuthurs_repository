@@ -8,6 +8,7 @@ tags:
   - "sewer-issue"
 cover-image: "/bugmuthurs_repository/assets/shop/sewer_inside_background/cover_image.jpg"
 type: background
+sold-out: "False"
 uri: "shop/sewer_inside_background.html"
 description:  Inside Grandmother Drainpipe's sewer, looking out.
 permalink: shop/sewer_inside_background/
