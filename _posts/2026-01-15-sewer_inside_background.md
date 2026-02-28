@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Sewer Inside"
-shortname: "Sewer from Inside Background"
+shortname: "SOLD - Sewer from Inside Background"
 id: "sewer-inside-background"
 tags: 
   - "drawing"

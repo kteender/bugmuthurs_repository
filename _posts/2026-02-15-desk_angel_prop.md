@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Desk Angel"
-shortname: "Desk Angel Drawing"
+shortname: "SOLD - Desk Angel Drawing"
 id: "deskangel-prop"
 tags: 
   - "drawing"

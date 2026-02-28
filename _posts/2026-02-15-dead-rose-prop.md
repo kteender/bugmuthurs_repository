@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Dead Rose Prop"
-shortname: "Dead Rose Drawing"
+shortname: "SOLD - Dead Rose Drawing"
 id: "dead-rose-prop"
 tags: 
   - "drawing"

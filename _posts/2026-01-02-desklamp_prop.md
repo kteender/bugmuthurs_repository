@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Desklamp"
-shortname: "Desklamp Drawing"
+shortname: "SOLD - Desklamp Drawing"
 id: "desklamp-prop"
 tags: 
   - "drawing"

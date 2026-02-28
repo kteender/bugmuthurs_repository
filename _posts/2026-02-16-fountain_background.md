@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Fountain"
-shortname: "Fountain Background"
+shortname: "SOLD - Fountain Background"
 id: "fountain-background"
 tags: 
   - "drawing"

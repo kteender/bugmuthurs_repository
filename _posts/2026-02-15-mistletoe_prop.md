@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Mistletoe Prop"
-shortname: "Mistletoe Drawing"
+shortname: "SOLD - Mistletoe Drawing"
 id: "mistletoe-prop"
 tags: 
   - "drawing"

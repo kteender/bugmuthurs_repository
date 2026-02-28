@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Bow and Arrow Prop"
-shortname: "Bow and Arrow Drawing"
+shortname: "SOLD - Bow and Arrow Drawing"
 id: "bow-and-arrow-prop"
 tags: 
   - "drawing"

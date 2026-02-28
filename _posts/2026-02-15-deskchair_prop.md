@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Deskchair"
-shortname: "Deskchair Drawing"
+shortname: "SOLD - Deskchair Drawing"
 id: "deskchair-prop"
 tags: 
   - "drawing"

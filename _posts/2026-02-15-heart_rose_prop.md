@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Heart Rose Prop"
-shortname: "Heart Rose Drawing"
+shortname: "SOLD - Heart Rose Drawing"
 id: "heart-rose-prop"
 tags: 
   - "drawing"

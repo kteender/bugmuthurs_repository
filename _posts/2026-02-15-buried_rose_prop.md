@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Buried Rose Prop"
-shortname: "Buried Rose Drawing"
+shortname: "SOLD - Buried Rose Drawing"
 id: "buried-rose-prop"
 tags: 
   - "drawing"

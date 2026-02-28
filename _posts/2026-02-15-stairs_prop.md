@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Stairs Prop"
-shortname: "Stairs Drawing"
+shortname: "SOLD - Stairs Drawing"
 id: "stairs-prop"
 tags: 
   - "drawing"

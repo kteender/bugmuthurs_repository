@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Streetlamp Prop"
-shortname: "Streetlamp Drawing"
+shortname: "SOLD - Streetlamp Drawing"
 id: "streetlamp-prop"
 tags: 
   - "drawing"

@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Voice Prop"
-shortname: "Voice Drawing"
+shortname: "SOLD - Voice Drawing"
 id: "voice-prop"
 tags: 
   - "drawing"

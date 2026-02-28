@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Capsule"
-shortname: "Capsule Background"
+shortname: "SOLD - Capsule Background"
 id: "capsule-background"
 tags: 
   - "drawing"
