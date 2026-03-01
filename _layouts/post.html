@@ -12,7 +12,9 @@ layout: null
         <div class="product-page">
             <!-- <div class="content"> -->
                 <h1>{{ page.shortname }}</h1>
-                <h2>${{ page.price }}0</h2>
+                {% if page.sold-out != "True" %}
+                    <h2>${{ page.price }}0</h2>
+                {% endif %}
                 <h3>{{ page.media }}</h3>
                 <h3>{{ page.dimensions }}</h3>
                 <p>{{ page.description }}</p>
@@ -28,6 +30,7 @@ layout: null
                     {% endfor %}
                 </div>
                 <p>{{ page.content }}</p>
+                 {% if page.sold-out != "True" %}
                 <div style="max-width: 50%; margin:auto; display: flex; justify-content: space-around;">
                   <button class="snipcart-add-item add-button"
                   data-item-id="{{ page.id }}"
@@ -49,7 +52,7 @@ layout: null
                 <p>Backgrounds and props are hand-drawn as part of an animation production pipeline. Any usage marks that the artwork incurred during production are clearly shown in listing images.</p>
                 {% endif %}
                 <p>All sales final. If you are unsatisfied with your purchase or if it arrives damaged, email <a href="mailto:contact@bugmuthur.net?subject=Order issue">contact@bugmuthur.net</a>.</p>
-                
+                {% endif %}
             <!-- </div> -->
 
         </div>
