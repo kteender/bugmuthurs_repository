@@ -8,7 +8,7 @@ tags:
   - "repository"
 cover-image: "/bugmuthurs_repository/assets/shop/desklamp_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/desklamp_prop.html"
 description:  Any resemblance to other animated desklamps is purely incidental
 permalink: shop/desklamp_prop/

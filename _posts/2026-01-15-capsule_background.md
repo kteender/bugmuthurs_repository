@@ -8,7 +8,7 @@ tags:
   - "sewer-issue"
 cover-image: "/bugmuthurs_repository/assets/shop/capsule_background/cover_image.jpg"
 type: background
-sold-out: "False"
+sold-out: "True"
 uri: "shop/capsule_background.html"
 description: Capsule version of Grandmother Drainpipe's home.
 permalink: shop/capsule_background/

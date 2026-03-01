@@ -8,7 +8,7 @@ tags:
   - "repository"
 cover-image: "/bugmuthurs_repository/assets/shop/desk_angel_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/desk_angel_prop.html"
 description:  The inspiration for the drainbabies!
 permalink: shop/desk_angel_prop/

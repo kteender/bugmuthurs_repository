@@ -8,7 +8,7 @@ tags:
   - "sewer-issue"
 cover-image: "/bugmuthurs_repository/assets/shop/streetlamp_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/streetlamp_prop.html"
 description:  Streetlamp prop.
 permalink: shop/streetlamp_prop/

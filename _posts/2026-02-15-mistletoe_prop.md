@@ -8,7 +8,7 @@ tags:
   - "christmas-rose"
 cover-image: "/bugmuthurs_repository/assets/shop/mistletoe_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/mistletoe_prop.html"
 description:  "Don't look up!"
 permalink: shop/mistletoe_prop/

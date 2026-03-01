@@ -8,7 +8,7 @@ tags:
   - "repository"
 cover-image: "/bugmuthurs_repository/assets/shop/deskchair_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/deskchair_prop.html"
 description:  Nice comfy chair for reading little tales
 permalink: shop/deskchair_prop/

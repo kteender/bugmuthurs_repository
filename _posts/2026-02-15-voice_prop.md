@@ -8,7 +8,7 @@ tags:
   - "christmas-rose"
 cover-image: "/bugmuthurs_repository/assets/shop/voice_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/voice_prop.html"
 description:  "'I ought to move on, but there's a voice in my tooth.'"
 permalink: shop/voice_prop/

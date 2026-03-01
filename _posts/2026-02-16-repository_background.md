@@ -8,7 +8,7 @@ tags:
   - "repository"
 cover-image: "/bugmuthurs_repository/assets/shop/repository_background/cover_image.jpg"
 type: background
-sold-out: "False"
+sold-out: "True"
 uri: "shop/repository_background.html"
 description:  Bugmuthur's Repository. The setting for all her little tales.
 permalink: shop/repository_background/

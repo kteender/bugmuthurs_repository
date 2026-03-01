@@ -8,7 +8,7 @@ tags:
   - "christmas-rose"
 cover-image: "/bugmuthurs_repository/assets/shop/buried_rose_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/buried_rose_prop.html"
 description:  "'I am six feet down under a blanket of snow.'"
 permalink: shop/buried_rose_prop/

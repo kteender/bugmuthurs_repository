@@ -8,7 +8,7 @@ tags:
   - "christmas-rose"
 cover-image: "/bugmuthurs_repository/assets/shop/dead_rose_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/dead_rose_prop.html"
 description:  "'On the day that I died you had quite the black thumb.'"
 permalink: shop/dead_rose_prop/

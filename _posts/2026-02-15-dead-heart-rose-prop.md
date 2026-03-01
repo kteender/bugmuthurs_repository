@@ -8,7 +8,7 @@ tags:
   - "christmas-rose"
 cover-image: "/bugmuthurs_repository/assets/shop/dead_heart_rose_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/dead_heart_rose_prop.html"
 description:  "'I stare into that room where my beating heart froze.'"
 permalink: shop/dead_heart_rose_prop/

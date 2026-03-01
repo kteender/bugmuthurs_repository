@@ -8,7 +8,7 @@ tags:
   - "sewer-issue"
 cover-image: "/bugmuthurs_repository/assets/shop/bow_and_arrow_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/bow_and_arrow_prop.html"
 description:  Cupid drainbaby's bow and arrow.
 permalink: shop/bow_and_arrow_prop/

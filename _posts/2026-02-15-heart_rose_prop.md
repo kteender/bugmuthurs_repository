@@ -8,7 +8,7 @@ tags:
   - "christmas-rose"
 cover-image: "/bugmuthurs_repository/assets/shop/heart_rose_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/heart_rose_prop.html"
 description:  "A weird flower."
 permalink: shop/heart_rose_prop/

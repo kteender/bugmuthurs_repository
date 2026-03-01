@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Rose Sprouting Prop"
-shortname: "Rose Sprouting Drawing"
+shortname: "ON HOLD - Rose Sprouting Drawing"
 id: "rose-sprouting-prop"
 tags: 
   - "drawing"

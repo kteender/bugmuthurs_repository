@@ -9,7 +9,7 @@ tags:
   - "sewer-issue"
 cover-image: "/bugmuthurs_repository/assets/shop/repository_high_view_background/cover_image.jpg"
 type: background
-sold-out: "False"
+sold-out: "True"
 uri: "shop/repository_high_view_background.html"
 description:  Bugmuthur's Repository from a high vantage point
 permalink: shop/repository_high_view_background/

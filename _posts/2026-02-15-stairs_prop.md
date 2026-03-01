@@ -8,7 +8,7 @@ tags:
   - "christmas-rose"
 cover-image: "/bugmuthurs_repository/assets/shop/stairs_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/stairs_prop.html"
 description:  "'I climb up the stairs and you don't stir a lick!'"
 permalink: shop/stairs_prop/
