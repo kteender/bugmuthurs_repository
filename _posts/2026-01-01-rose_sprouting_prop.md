@@ -8,7 +8,7 @@ tags:
   - "christmas-rose"
 cover-image: "/bugmuthurs_repository/assets/shop/rose_sprouting_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/rose_sprouting_prop.html"
 description:  "'I claw up at the dirt, cracking frost with my fist.'"
 permalink: shop/rose_sprouting_prop/
