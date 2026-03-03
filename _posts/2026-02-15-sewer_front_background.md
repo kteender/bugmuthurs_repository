@@ -8,7 +8,7 @@ tags:
   - "sewer-issue"
 cover-image: "/bugmuthurs_repository/assets/shop/sewer_front_background/cover_image.jpg"
 type: background
-sold-out: "False"
+sold-out: "True"
 uri: "shop/sewer_front_background.html"
 description:  Grandmother Drainpipe's Sewer, shown in SEWER ISSUE.
 permalink: shop/sewer_front_background/
