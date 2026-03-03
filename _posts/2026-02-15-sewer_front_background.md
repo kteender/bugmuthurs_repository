@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Sewer Front"
-shortname: "Sewer Front Background"
+shortname: "SOLD - Sewer Front Background"
 id: "sewer-front-background"
 tags: 
   - "drawing"
