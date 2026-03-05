@@ -20,11 +20,11 @@ layout: null
     </div>
     <div class="blog-container">
       <div  style="padding: 2%; padding-top: 4%;">
-      <p>If you would like to commission a drawing, email <a href="mailto:contact@bugmuthur.net?subject=Unlisted drawing purchase">contact@bugmuthur.net</a>!</p>
+      <!-- <p>If you would like to commission a drawing, email <a href="mailto:contact@bugmuthur.net?subject=Unlisted drawing purchase">contact@bugmuthur.net</a>!</p> -->
       </div>
           <!-- ~<button class="snipcart-checkout view-cart-button">View Cart and Check Out</button> -->
         <div class="regular">
-        <div class = "flex-container" style = "height: 800px;">
+        <div class = "bc-flex-container">
           {% for post in site.posts %}
           {% if post.type != "sticker" and post.sold-out == "True" %}
                 <div class="regular-holder">
