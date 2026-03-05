@@ -8,6 +8,49 @@
   --bgColor-buttonSecondary-hover: hsl(0, 0%, 75%);
 }
 
+.bm {
+  font-family:Share Tech Mono, Helvetica, monospace;
+  box-sizing: border-box;
+  width: 33.333%;
+  min-width: 200pt;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  /*background-image: url("pay_for_me.png");
+  background-repeat: repeat-x;
+  background-size: 40px;*/
+  background-color: white;
+  text-align: center;
+  text-decoration-color: black;
+  color:black;
+  text-decoration-color: black;
+  text-decoration-style: double;
+  margin: auto;
+  padding: 1.5%;
+  border-color: black;
+  border-style: double;
+  border-color: black;
+  border-width: 5px 5px 5px 5px;
+}
+.bm p {
+  font-weight: bold;
+  font-size: 1.625em;
+}
+
+.bm:hover {
+  background-color: #99cc99;
+  /* border-width: 8px;
+  border-style: double;
+  border-color: black; */
+  outline-offset: -12px;
+  outline-width: 6px;
+  outline-style: double;
+  text-decoration: underline;
+  text-decoration-style: double;
+}
+
+
 .bm-page-content {
   background-image: url('style_img/desk_bg.jpg');
   background-repeat: repeat;
@@ -204,7 +247,7 @@
   padding: 0px;
 }
 
-.section-middle, .small-section-middle, .label-middle p{
+.section-middle, .small-section-middle, .label-middle, .bm p{
   margin: 0px;
   padding: 0px;
   font-size: 1.625em;
@@ -455,6 +498,9 @@
     font-size: .75em;
   }
     
+  .bm p {
+    font-size: .75em;
+  }
 }
 
 .regular-holder, .regular-holder-dummy {
