@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Town Square"
-shortname: "Town Square Background"
+shortname: "SOLD - Town Square Background"
 id: "town-square-background"
 tags: 
   - "drawing"
