@@ -8,7 +8,7 @@ tags:
   - "sewer-issue"
 cover-image: "/bugmuthurs_repository/assets/shop/town_square_background/cover_image.jpg"
 type: background
-sold-out: "False"
+sold-out: "True"
 uri: "shop/town_square_background.html"
 description:  The town, shown in SEWER ISSUE.
 permalink: shop/town_square_background/

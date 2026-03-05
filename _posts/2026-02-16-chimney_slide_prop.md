@@ -1,6 +1,6 @@
 ---
 title: "BUGMUTHUR | Chimney Slide Prop"
-shortname: "Chimney Slide Drawing"
+shortname: "SOLD - Chimney Slide Drawing"
 id: "chimney-slide-prop"
 tags: 
   - "drawing"
@@ -8,7 +8,7 @@ tags:
   - "christmas-rose"
 cover-image: "/bugmuthurs_repository/assets/shop/chimney_slide_prop/cover_image.jpg"
 type: prop
-sold-out: "False"
+sold-out: "True"
 uri: "shop/chimney_slide_prop.html"
 description:  "'I slide down the chimney and the tree strikes me dumb.'"
 permalink: shop/chimney_slide_prop/
